@@ -59,6 +59,6 @@ Chatmode is just the beginning. As AI assistants become more capable, expect dee
 
 ### Conclusion
 
-GitHub Copilot’s [chatmode](https://github.com/github/awesome-copilot/tree/main/chatmodes) is redefining how developers interact with code. By blending natural language with coding workflows, it empowers you to build, learn, and solve problems faster. If you haven’t tried chatmode yet, now’s the time to bring conversational coding into your daily routine.
+GitHub Copilot’s [chatmode](https://docs.github.com/en/copilot/getting-started-with-github-copilot/about-github-copilot-chat) is redefining how developers interact with code. By blending natural language with coding workflows, it empowers you to build, learn, and solve problems faster. If you haven’t tried chatmode yet, now’s the time to bring conversational coding into your daily routine.
 
 Ready to get started? Try chatmode in GitHub Copilot today and share your experiences with the community!
