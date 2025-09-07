@@ -25,20 +25,20 @@ Chatmode is a conversational interface for GitHub Copilot, available in editors 
 - *Debugging:* Paste error messages and get actionable fixes or explanations.
 - *Learning:* Explore new frameworks or libraries by asking Copilot for examples and best practices.
 
-  ###### Example Scenario
+###### Example Scenario
 
-  Imagine you’re building a Python web service.
+Imagine you’re building a Python web service.
 
-  With chatmode, you can:
+With chatmode, you can:
 
-  1. Ask: “Generate a FastAPI endpoint for user registration.”
+1. Ask: “Generate a FastAPI endpoint for user registration.”
 
-  2. Follow up: “Add JWT authentication.”
+2. Follow up: “Add JWT authentication.”
 
-  3. Request: “Write unit tests for the registration logic.”
+3. Request: “Write unit tests for the registration logic.”
 
-  4. Debug: “Why am I getting a 401 error?”
-     Copilot responds with code, explanations, and troubleshooting steps—all in one conversational thread.
+4. Debug: “Why am I getting a 401 error?”
+   Copilot responds with code, explanations, and troubleshooting steps—all in one conversational thread.
 
 ### Tips for Effective Use
 
