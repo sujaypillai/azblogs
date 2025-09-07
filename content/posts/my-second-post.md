@@ -18,7 +18,8 @@ Chatmode is a conversational interface for GitHub Copilot, available in editors 
 - *Multi-Turn Conversations:* You can ask follow-up questions, clarify requirements, and iterate on solutions.
 - *Task Automation:* From generating boilerplate code to fixing errors, chatmode streamlines repetitive tasks.
 - *Integration:* Seamlessly works with VS Code, GitHub, and other tools, leveraging your project’s context.
-  Real-World Use Cases
+
+### Real-World Use Cases
 - *Rapid Prototyping:* Ask Copilot to scaffold a REST API, generate Terraform modules, or set up CI/CD pipelines.
 - *Refactoring:* Request Copilot to optimize a function, rename variables, or split logic into reusable components.
 - *Debugging:* Paste error messages and get actionable fixes or explanations.
